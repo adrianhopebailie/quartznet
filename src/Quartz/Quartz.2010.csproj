@@ -156,6 +156,7 @@
     <Compile Include="Job\IDirectoryScanListener.cs" />
     <Compile Include="Listener\BroadcastJobListener.cs" />
     <Compile Include="Listener\BroadcastTriggerListener.cs" />
+    <Compile Include="RecurrenceRuleExpression.cs" />
     <Compile Include="ScheduleBuilder.cs" />
     <Compile Include="SimpleScheduleBuilder.cs" />
     <Compile Include="Collection\ISet.cs">
